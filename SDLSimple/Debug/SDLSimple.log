@@ -1,0 +1,5 @@
+﻿  LevelC.cpp
+C:\Users\billy\source\repos\Final Project - Copy\SDLSimple\Entity.h(173,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'LevelC.cpp')
+  
+  SDLSimple.vcxproj -> C:\Users\billy\source\repos\Final Project - Copy\Debug\SDLSimple.exe
